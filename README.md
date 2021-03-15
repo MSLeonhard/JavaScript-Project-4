@@ -40,6 +40,6 @@ Using all the skills you've learned with HTML/CSS and Javascript, create a websi
 * Display Rank in main Ranked game mode 
 * Favorite game mode (if possible)
 
-## IF I Can't use Riot's API
+## If I Can't use Riot's API
 
 * I'll make a similar application using Steam's API, which doesn't have an authentication process to use as far as I know.
