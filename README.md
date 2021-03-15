@@ -25,9 +25,13 @@ Using all the skills you've learned with HTML/CSS and Javascript, create a websi
 * Use of React/Angular/Vue
 * Use of 3 party libraries and frameworks
 
+## What I Want to Build
+
+* A web app that allows the user to input a players username for the MOBA game League of Legends and get information back about that player.
+
 ## Pages
 
-* One main page with a field to input Summoner name (what a username is called in League of Legends), and where the data is displayed.
+* One main page with a field to input a Summoner name (what a username is called in League of Legends) and to select region. The returned data will also be displayed here.
 
 ## Features
 
