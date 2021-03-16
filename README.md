@@ -27,7 +27,7 @@ Using all the skills you've learned with HTML/CSS and Javascript, create a websi
 
 ## What I Want to Build
 
-* A web app that allows the user to input a players username for the MOBA game League of Legends and get information back about that player.
+* A web app that allows the user to input a players username for the MOBA game League of Legends and get information back about that player. The API I will be using is this one provided by the games developer, Riot Games https://developer.riotgames.com/apis
 
 ## Pages
 
@@ -39,3 +39,7 @@ Using all the skills you've learned with HTML/CSS and Javascript, create a websi
 * Display most played champions (with images of the champions)
 * Display Rank in main Ranked game mode 
 * Favorite game mode (if possible)
+
+## If I Can't use Riot's API
+
+* I'll make a similar application using Steam's API, which doesn't have an authentication process to use as far as I know.
